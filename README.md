@@ -20,6 +20,12 @@ WeMos D1 mini is a small microcontroller board based on the ESP8266 chip that ca
  - Use a type C charging cable.
 
 **Common Uses**
+ 1. Look at the time
+ 2. measure temperature
+ 3. Used as decoration
+ 4. High heat warning
+
+**How to**
  1. Trun on
  2. Make an internet connection
  3. Finish
